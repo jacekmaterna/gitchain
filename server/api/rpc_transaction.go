@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/gitchain/gitchain/keys"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/keys"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/transaction"
 	"github.com/inconshreveable/log15"
 )
 

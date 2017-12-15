@@ -11,10 +11,10 @@ import (
 	"strings"
 
 	"github.com/bargez/pktline"
-	"github.com/gitchain/gitchain/git"
-	"github.com/gitchain/gitchain/repository"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/git"
+	"github.com/jacekmaterna/gitchain/repository"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/transaction"
 	"github.com/gorilla/mux"
 	"github.com/inconshreveable/log15"
 )

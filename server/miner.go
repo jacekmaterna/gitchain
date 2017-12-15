@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/types"
+	"github.com/jacekmaterna/gitchain/block"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/types"
 	"github.com/inconshreveable/log15"
 )
 

@@ -5,9 +5,9 @@ import (
 	"encoding/gob"
 	"path"
 
-	"github.com/gitchain/gitchain/git"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/git"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/transaction"
 	"github.com/gitchain/wendy"
 	"github.com/inconshreveable/log15"
 )

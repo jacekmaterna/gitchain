@@ -8,10 +8,10 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/gitchain/gitchain/server/api"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/server/git"
-	"github.com/gitchain/gitchain/ui"
+	"github.com/jacekmaterna/gitchain/server/api"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/server/git"
+	"github.com/jacekmaterna/gitchain/ui"
 	"github.com/gorilla/mux"
 )
 

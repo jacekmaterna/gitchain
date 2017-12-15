@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/boltdb/bolt"
-	"github.com/gitchain/gitchain/keys"
-	"github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/types"
+	"github.com/jacekmaterna/gitchain/keys"
+	"github.com/jacekmaterna/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/types"
 	"github.com/stretchr/testify/assert"
 )
 

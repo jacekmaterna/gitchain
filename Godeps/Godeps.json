@@ -1,15 +1,15 @@
 {
-	"ImportPath": "github.com/gitchain/gitchain",
-	"GoVersion": "go1.2.2",
+	"ImportPath": "github.com/jacekmaterna/gitchain",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
 	"Deps": [
 		{
-			"ImportPath": "code.google.com/p/gcfg",
-			"Rev": "c2d3050044d05357eaf6c3547249ba57c5e235cb"
+			"ImportPath": "github.com/scalingdata/gcfg",
+			"Rev": "37aabad69cfd3d20b8390d902a8b10e245c615ff"
 		},
 		{
-			"ImportPath": "code.google.com/p/go.crypto/ripemd160",
-			"Comment": "null-209",
-			"Rev": "23b39e4e860172e1983ded00a9d2f7e42b7683d0"
+			"ImportPath": "github.com/golang/crypto/ripemd160",
+			"Rev": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122"
 		},
 		{
 			"ImportPath": "github.com/alecthomas/kingpin",

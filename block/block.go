@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/conformal/fastsha256"
-	trans "github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/types"
+	trans "github.com/jacekmaterna/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/types"
 	"github.com/xsleonard/go-merkle"
 )
 

@@ -2,8 +2,7 @@ package config
 
 import (
 	"runtime"
-
-	"code.google.com/p/gcfg"
+	"github.com/scalingdata/gcfg"
 )
 
 type T struct {

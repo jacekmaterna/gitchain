@@ -3,11 +3,11 @@ package server
 import (
 	"bytes"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/repository"
-	"github.com/gitchain/gitchain/server/context"
-	"github.com/gitchain/gitchain/transaction"
-	"github.com/gitchain/gitchain/util"
+	"github.com/jacekmaterna/gitchain/block"
+	"github.com/jacekmaterna/gitchain/repository"
+	"github.com/jacekmaterna/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/transaction"
+	"github.com/jacekmaterna/gitchain/util"
 	"github.com/inconshreveable/log15"
 )
 

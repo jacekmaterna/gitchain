@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/gitchain/gitchain/block"
-	"github.com/gitchain/gitchain/server"
-	"github.com/gitchain/gitchain/server/context"
+	"github.com/jacekmaterna/gitchain/block"
+	"github.com/jacekmaterna/gitchain/server"
+	"github.com/jacekmaterna/gitchain/server/context"
 	"github.com/inconshreveable/log15"
 )
 

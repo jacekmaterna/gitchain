@@ -4,8 +4,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gitchain/gitchain/db"
-	"github.com/gitchain/gitchain/server/config"
+	"github.com/jacekmaterna/gitchain/db"
+	"github.com/jacekmaterna/gitchain/server/config"
 	"github.com/inconshreveable/log15"
 	"github.com/tuxychandru/pubsub"
 )

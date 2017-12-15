@@ -7,10 +7,10 @@ import (
 	"encoding/gob"
 	"math/big"
 
-	"code.google.com/p/go.crypto/ripemd160"
+	"github.com/golang/crypto/ripemd160"
 
 	"github.com/conformal/btcec"
-	"github.com/gitchain/gitchain/util"
+	"github.com/jacekmaterna/gitchain/util"
 	"github.com/tv42/base58"
 )
 

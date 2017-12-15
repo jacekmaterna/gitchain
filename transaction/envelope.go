@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/gitchain/gitchain/keys"
-	"github.com/gitchain/gitchain/types"
-	"github.com/gitchain/gitchain/util"
+	"github.com/jacekmaterna/gitchain/keys"
+	"github.com/jacekmaterna/gitchain/types"
+	"github.com/jacekmaterna/gitchain/util"
 )
 
 type Envelope struct {
