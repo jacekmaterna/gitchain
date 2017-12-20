@@ -91,7 +91,7 @@ func main() {
 
 	cfg = config.Default()
 
-	cfg.General.DataPath = dataPath
+	cfg.General.DataPath = cfg.General.DataPath
 	if httpPort != 0 {
 		cfg.API.HttpPort = httpPort
 	}

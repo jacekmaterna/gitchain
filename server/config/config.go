@@ -2,6 +2,7 @@ package config
 
 import (
 	"runtime"
+
 	"github.com/scalingdata/gcfg"
 )
 
@@ -28,7 +29,7 @@ func Default() (cfg *T) {
 	cfg.General.DataPath = "gitchain.db"
 	cfg.API.HttpPort = 3000
 	cfg.Network.Port = 31000
-	cfg.Mining.Processes = runtime.NumCPU()
+	cfg.Mining.Processes = runtime.NumCPU() / 4
 	return
 }
 
